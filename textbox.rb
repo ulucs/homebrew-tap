@@ -5,9 +5,9 @@
 class Textbox < Formula
   desc ""
   homepage ""
-  url "https://github.com/ulucs/textbox/archive/v0.2.tar.gz"
-  version "0.2"
-  sha256 "0055441c2576518325a519bddf4cf0f35a6451a7fc24df9a5694dde7288b9a83"
+  url "https://github.com/ulucs/textbox/archive/v0.2.1.tar.gz"
+  version "0.2.1"
+  sha256 "d1bb1498e03921abe99c4c10fd9ca40aab707a8d8e20c690c992a3c694f9e1b4"
 
   depends_on "cmake"
   depends_on "imagemagick" => 'with-ghostscript'
